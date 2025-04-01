@@ -1,0 +1,23 @@
+Building 5 to 10 small projects covering core React concepts should be enough to understand any React-based code. Focus on projects that involve:
+
+Component-based architecture – Build a simple counter or to-do app.
+
+State management (useState, useReducer) – Create a quiz or calculator.
+
+Props & Context API – Build a theme switcher.
+
+Event handling & forms – Develop a login or feedback form.
+
+React Router – Make a multi-page blog or portfolio site.
+
+API integration (fetch, Axios) – Develop a weather or GitHub profile viewer.
+
+Custom hooks – Implement a custom dark mode or local storage hook.
+
+Performance optimization (useMemo, useCallback) – Optimize an e-commerce cart.
+
+State management libraries (Redux, Zustand, Recoil) – Build a task manager.
+
+Real-time features (WebSockets, Firebase, Socket.IO) – Create a chat app.
+
+After these, you should be comfortable reading and working with most React-based projects.
