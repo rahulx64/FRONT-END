@@ -22,6 +22,7 @@ const Form = () => {
     setTasks(newTasks);
   };
 
+
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-200 p-6">
       <div className="bg-white shadow-lg rounded-lg p-6 w-full max-w-md">
@@ -36,7 +37,7 @@ const Form = () => {
             value={input}
             placeholder="Add new task"
             onChange={(e) => setInput(e.target.value)}
-            className="flex-grow border p-2 rounded focus:outline-none focus:ring-2 focus:ring-blue-400"
+            className="flex-grow text-blue-500 border p-2 rounded focus:outline-none focus:ring-2 focus:ring-blue-400"
           />
           <button
             onClick={addTask}
